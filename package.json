@@ -1,7 +1,8 @@
 {
   "name": "rick-and-morty-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://bartvanelferen.github.io/rick-and-morty-coding-challenge",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -18,7 +19,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "homepage": "https://bartvanelferen.github.io/rick-and-morty-coding-challenge",
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
     "build": "react-scripts build",
