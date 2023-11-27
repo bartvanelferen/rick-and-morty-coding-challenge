@@ -1,0 +1,19 @@
+.main-section {
+    background: var(--theme-darker-blue);
+    color: var(--theme-white);
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    flex-wrap: wrap;
+    max-width: 1920px;
+    min-height: 50vh;
+    padding-bottom: 4em;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+    width: 100%;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
