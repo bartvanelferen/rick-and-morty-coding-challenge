@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rick-and-morty-coding-challenge/static/css/main.6257b9c2.css",
+    "main.js": "/rick-and-morty-coding-challenge/static/js/main.cac8940e.js",
+    "index.html": "/rick-and-morty-coding-challenge/index.html",
+    "main.6257b9c2.css.map": "/rick-and-morty-coding-challenge/static/css/main.6257b9c2.css.map",
+    "main.cac8940e.js.map": "/rick-and-morty-coding-challenge/static/js/main.cac8940e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6257b9c2.css",
+    "static/js/main.cac8940e.js"
+  ]
+}
