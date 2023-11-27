@@ -1,0 +1,17 @@
+.intro-section {
+    background: var(--theme-white);
+}
+
+.intro-section__title {
+    font-weight: 900;
+    font-size: 5em;
+    color: var(--theme-dark-blue);
+    text-align: center;
+    width: 100%;
+    padding: 1.5em 0.2em;
+    margin: 0;
+}
+
+.menu-top {
+    width: 100%;
+}

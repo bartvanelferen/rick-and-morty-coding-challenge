@@ -1,0 +1,8 @@
+.footer-section {
+    background: var(--theme-dark-blue);
+    color: var(--theme-white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4em;
+}
